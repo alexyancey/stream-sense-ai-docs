@@ -1,2 +1,3 @@
-# stream-sense-ai-docs
+# StreamSense AI
+
 StreamSense AI Documentation
