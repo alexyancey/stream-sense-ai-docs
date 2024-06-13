@@ -6,7 +6,7 @@ Welcome to StreamSense AI! A chrome extension that will help you boost your audi
 
 ### Installation
 
-Install the extension through the [Chrome Web Store]() on any Chromium based browser (Chrome, Brave, Opera, Edge, etc).
+Install the extension through the [Chrome Web Store](https://chromewebstore.google.com/detail/streamsense-ai/oalcdigpiphoommibplcfdeolialegba) on any Chromium based browser (Chrome, Brave, Opera, Edge, etc).
 
 ### Setting Up StreamSense AI
 
